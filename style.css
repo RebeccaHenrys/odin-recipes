@@ -1,0 +1,39 @@
+.ORTitle {
+    text-align: center;
+
+}
+
+body {
+    color: white;
+    font-family: verdana, Helvetica, sans-serif;
+    background-color: darkslateblue;
+}
+
+
+img {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+  a:link, a:visited {
+    background-color: rgb(117, 107, 181);
+    color: white;
+    margin-top: 15px;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(181, 173, 234);
+  }
+
+  .list1 {
+    margin-left: auto;
+    margin-right: auto;
+  }
